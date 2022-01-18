@@ -314,12 +314,9 @@ function get_all_nfts(){
               }}
             >
      <s.TextTitle style={{ textAlign: "center", color: "red" }}>
-     <center>Random wallets will get NFTs airdropped to them. </center>
+     <center>Just a Llama</center>
      </s.TextTitle>
-          <s.TextTitle style={{ textAlign: "center", color: "var(--accent-text)" }}>
-
-     The more CryptoMan you hold the better the chances are of winning!
-     </s.TextTitle>
+    
             </span>
             <s.SpacerSmall />
             {Number(data.totalSupply) >= CONFIG.MAX_SUPPLY ? (
@@ -344,7 +341,7 @@ function get_all_nfts(){
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  1 CryptoMan costs {CONFIG.DISPLAY_COST}{" "}
+                  1 Fantom Llama costs {CONFIG.DISPLAY_COST}{" "}
                   {CONFIG.NETWORK.SYMBOL}.
                 </s.TextTitle>
                 <s.SpacerXSmall />
