@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xaa5f0f2f15e8eadd83ed34490cd0757455a573f3",
+  "SCAN_LINK": "https://ftmscan.com/token/0xaa5f0f2f15e8eadd83ed34490cd0757455a573f3",
+  "NETWORK": {
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Fantom Llamas",
+  "SYMBOL": "LlamaNFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "nftkey",
+  "MARKETPLACE_LINK": "https://nftkey.app/collections/fantomllama",
+  "SHOW_BACKGROUND": true
+}
